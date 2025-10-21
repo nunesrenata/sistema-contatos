@@ -1,28 +1,42 @@
-<<<<<<< HEAD
-/target/
-=======
-# Compiled class file
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Diretórios de build
+bin/
+target/
+
+# Arquivos compilados
 *.class
 
-# Log file
+# Arquivos temporários
 *.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
 
-# BlueJ files
-*.ctxt
+# Arquivos de IDEs
+.idea/
+.vscode/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Maven
+dependency-reduced-pom.xml
 
-# Package Files #
+# Arquivos de empacotamento
 *.jar
 *.war
-*.nar
 *.ear
 *.zip
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Arquivos de servidor (Tomcat)
+Servers/
+
+# JVM crash logs
 hs_err_pid*
 replay_pid*
->>>>>>> de15c2260278c32c27d6b8642e2eaee7cd3b9c9a
+

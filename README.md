@@ -10,7 +10,8 @@ O projeto tem como objetivo aplicar conceitos de **desenvolvimento web com Java*
 - 🔐 Login e autenticação de usuário  
 - 🧾 Cadastro de novos contatos  
 - ✏️ Edição e exclusão de contatos  
-- 📋 Listagem de contatos cadastrados  
+- 📋 Listagem de contatos cadastrados
+- 🔑 Recuperação de senha via e-mail 
 - 🔒 Proteção de páginas por sessão (somente usuários autenticados podem acessar a agenda)
 
 ---
